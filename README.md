@@ -2,3 +2,4 @@
 - System Testing
 
 - Alan Vieira Martins
+- Fabio Leal
